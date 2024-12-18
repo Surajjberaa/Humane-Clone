@@ -17,5 +17,15 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Humane';
+  color: white
+}
+
+@font-face {
+	font-family: 'Humane';
+	src: url('https://res.cloudinary.com/dggyfyynb/raw/upload/v1734520869/humaneweb-vf_xlfpmn.woff2') format('woff2');
+	/* font-weight: 400;  */
+  /* adjust to your font's weight */ 
+	font-style: normal;
+	font-display: swap;
 }
