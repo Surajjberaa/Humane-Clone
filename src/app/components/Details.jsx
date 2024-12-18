@@ -22,7 +22,7 @@ function Details() {
             <section className='h-[500px]'>
                         <div className='grid grid-cols-2 mt-20'>
                             <div className=''>
-                                <img src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734531207/intelligentAgents.8b1d751b_nekrg6.svg" alt="" className='ml-12 h-[400px] w-[550px]' />
+                                <img loading="lazy" data-scroll-disabled src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734531207/intelligentAgents.8b1d751b_nekrg6.svg" alt="" className='ml-12 h-[400px] w-[550px]' />
                             </div>
                             <div className='ml-20 mt-20'>
                                 <h1 className='text-2xl font-bold mb-10'>Intelligent Agents For Every Tasks</h1>
@@ -39,7 +39,7 @@ function Details() {
                         <h2 className='mt-10 font-light opacity-60 '>CosmOS evolves and becomes personalized over time by learning from your interactions and history and staying contextually relevant with up to date data from the web and information you provide.</h2>
                     </div>
                     <div>
-                        <img src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734531906/personalizedAndContextual.f55a1a64_p9sewn.svg" alt="" className='ml-16 h-[400px] w-[550px]' />
+                        <img loading="lazy" data-scroll-disabled src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734531906/personalizedAndContextual.f55a1a64_p9sewn.svg" alt="" className='ml-16 h-[400px] w-[550px]' />
                     </div>
                 </div>
             </section>
@@ -47,7 +47,7 @@ function Details() {
             <section className='h-[500px]'>
                         <div className='grid grid-cols-2 mt-20'>
                             <div className=''>
-                                <img src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734532630/aiBus.16c4156d_r5xvw2.svg" alt="" className='ml-12 h-[400px] w-[550px]' />
+                                <img loading="lazy" data-scroll-disabled src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734532630/aiBus.16c4156d_r5xvw2.svg" alt="" className='ml-12 h-[400px] w-[550px]' />
                             </div>
                             <div className='ml-20 mt-20'>
                                 <h1 className='text-2xl font-bold mb-10'>The Ai Bus: An Intelligent Orchestrator</h1>
@@ -65,7 +65,7 @@ function Details() {
                         <h2 className='mt-5 font-light opacity-60 '>CosmOS understands the context and intent behind your requests. When agents come back with results, CosmOS makes sure they’re appropriate, accurate and keeps processing if the task isn’t done yet.</h2>
                     </div>
                     <div>
-                        <img src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734532869/parallelProcessing.b0d0f535_xxodgo.svg" alt="" className='ml-16 h-[400px] w-[550px]' />
+                        <img loading="lazy" data-scroll-disabled src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734532869/parallelProcessing.b0d0f535_xxodgo.svg" alt="" className='ml-16 h-[400px] w-[550px]' />
                     </div>
                 </div>
             </section>
@@ -73,7 +73,7 @@ function Details() {
             <section className='h-[500px]'>
                         <div className='grid grid-cols-2 mt-20'>
                             <div className=''>
-                                <img src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734533068/intelligentErrorHandling.73909035_lerigm.svg" alt="" className='ml-12 h-[400px] w-[550px]' />
+                                <img loading="lazy" data-scroll-disabled src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734533068/intelligentErrorHandling.73909035_lerigm.svg" alt="" className='ml-12 h-[400px] w-[550px]' />
                             </div>
                             <div className='ml-20 mt-20'>
                                 <h1 className='text-2xl font-bold mb-10'>Intelligent Error Handling</h1>
@@ -90,7 +90,7 @@ function Details() {
                         <h2 className='mt-10 font-light opacity-60 '>CosmOS is designed to support multiple device form factors and adapts to the latest advancements in AI technologies — making it easy for new agents and capabilities to come on board.</h2>
                     </div>
                     <div>
-                        <img src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734533205/scalableAndAdaptable.d1537873_nn3eof.svg" alt="" className='ml-16 h-[400px] w-[550px]' />
+                        <img loading="lazy" data-scroll-disabled src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734533205/scalableAndAdaptable.d1537873_nn3eof.svg" alt="" className='ml-16 h-[400px] w-[550px]' />
                     </div>
                 </div>
             </section>
@@ -98,7 +98,7 @@ function Details() {
             <section className='h-[500px]'>
                         <div className='grid grid-cols-2 mt-20'>
                             <div className=''>
-                                <img src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734533321/multimodalControl.7d3e094c_nbkoux.svg" alt="" className='ml-12 h-[400px] w-[550px]' />
+                                <img loading="lazy" data-scroll-disabled src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734533321/multimodalControl.7d3e094c_nbkoux.svg" alt="" className='ml-12 h-[400px] w-[550px]' />
                             </div>
                             <div className='ml-20 mt-20'>
                                 <h1 className='text-2xl font-bold mb-10'>Multimodal Control</h1>

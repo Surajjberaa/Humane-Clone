@@ -13,7 +13,7 @@ function HeroSection() {
         </div>
         <div id='heroRight' className='flex justify-center '>
             <div>
-                <img src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734523273/image_tttj5f.jpg" alt="" className='h-[250px] w-[430px] object-cover rounded-3xl' />
+                <img loading="lazy" data-scroll-disabled src="https://res.cloudinary.com/dggyfyynb/image/upload/v1734523273/image_tttj5f.jpg" alt="" className='h-[250px] w-[430px] object-cover rounded-3xl' />
             </div>
         </div>
        </section>
