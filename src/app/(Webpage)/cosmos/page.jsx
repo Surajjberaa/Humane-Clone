@@ -31,7 +31,7 @@ function Cosmos() {
                 </div>
                 <div className='h-full w-full flex items-center justify-center mt-40 pb-20'>
 
-                    <video loading="lazy" src="https://download-video-ak.vimeocdn.com/v3-1/playback/d017d7f4-6774-417a-b79a-69e2cf62647e/37462067-e8e01aca?__token__=st=1734566137~exp=1734580537~acl=%2Fv3-1%2Fplayback%2Fd017d7f4-6774-417a-b79a-69e2cf62647e%2F37462067-e8e01aca%2A~hmac=37ed4067a9b36b88237bd31034a052017255217ad03c1ec98d5a82ed437e1bfe&r=dXMtd2VzdDE%3D" className='h-[600px] w-[1200px]' controls={true} ></video>
+                    <video loading="lazy" src="https://player.vimeo.com/progressive_redirect/playback/1021907326/rendition/2160p/file.mp4?loc=external&oauth2_token_id=1775640829&signature=ff2d1a1b63cf6e91a4ca84c98128358a2e9e0381402d0760672593d2ec1a3f60" className='h-[600px] w-[1200px]' controls={true} ></video>
                 </div>
             </section>
             <Architecture />

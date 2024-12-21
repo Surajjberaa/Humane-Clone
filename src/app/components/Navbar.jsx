@@ -37,6 +37,8 @@ function Navbar() {
     });
   }, [])
 
+  const navItems = ['ai pin', 'tech details', 'cosmos', 'accessories', 'support']
+
   return (
     <div ref={navbar} className='w-full h-16 mt-6  flex items-center justify-center fixed z-9'>
       <div className='w-full h-full rounded-full  backdrop-filter backdrop-blur-2xl bg-neutral-500 bg-opacity-15 mx-6 flex items-center justify-between pl-4 pr-1'>
@@ -46,11 +48,11 @@ function Navbar() {
           </div>
         </div>
         <div className='flex gap-6'>
-          <h2 className='font-bold text-base text-white'>ai pin</h2>
-          <h2 className='font-bold text-base text-white'>tech details</h2>
-          <h2 className='font-bold text-base text-white'>cosmos</h2>
-          <h2 className='font-bold text-base text-white'>accessories</h2>
-          <h2 className='font-bold text-base text-white'>support</h2>
+          {
+            navItems.map((item, index) => {
+              return <h2 key={index} className='font-bold text-base text-white hover:opacity-60 cursor-pointer'>{item}</h2>
+            })
+          }
         </div>
         <div className='flex items-center justify-center gap-2'>
           <h1 className='font-bold text-base'>account</h1>

@@ -101,7 +101,7 @@ function DesignSection() {
                         backgroundRepeat: 'no-repeat',
                         backgroundSize: 'cover'
                     }}
-                    className='h-[600] w-[1250px] rounded-[60px] flex flex-col pt-36 '
+                    className='h-[600px] w-[1250px] rounded-[60px] flex flex-col pt-36 '
                     >
                         <h1 className='ml-20 text-[60px] leading-none font-semibold'>
                         Join us in shaping the <br /> future of AI-powered <br /> computing.

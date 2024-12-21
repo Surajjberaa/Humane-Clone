@@ -1,6 +1,15 @@
-import React from 'react'
+'use client'
+import React, { useEffect, useState } from 'react'
 
 function ContactUs() {
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
+  };
+
   return (
     <section className='h-[900px] bg-black'>
       <div className='grid grid-cols-7 pt-20 '>
@@ -49,6 +58,14 @@ function ContactUs() {
           <div></div>
           <div></div>
           <div></div>
+          <button
+            title='Back to top'
+            onClick={scrollToTop}
+            className='mr-10 bottom-10 right-10 bg-[#F3D321] text-black h-12 w-12 rounded-full font-bold text-base'
+            aria-label="Scroll to top"
+          >
+            ↑
+          </button>
         </div>
       </div>
     </section>
